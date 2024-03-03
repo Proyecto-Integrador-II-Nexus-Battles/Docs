@@ -1,4 +1,4 @@
-#CI/CD
+# CI/CD
 ```mermaid
 mindmap
 ((Repository))
@@ -13,7 +13,7 @@ mindmap
 			Run tests
 ```
 
-#Continuous integration (CI)
+# Continuous integration (CI)
 
 ```mermaid
 mindmap
@@ -27,10 +27,10 @@ mindmap
 			Test
 
 ```
-####Test
+#### Test
 | Feature   | Value             |
 | :-------- | :-----------------| 
-| Executes  | On **PR** to `dev` |
+| Executes  | On **Pull Request** to `dev` |
 |Permissions| **Read only** repository contents|
 
 ####Release
@@ -40,7 +40,7 @@ mindmap
 |Permissions| **Read only** repository contents, **Read/Write** releases, **Read/Write** packeges1|
 
 
-#Continuous deployment
+# Continuous deployment
 
 ```mermaid
 mindmap

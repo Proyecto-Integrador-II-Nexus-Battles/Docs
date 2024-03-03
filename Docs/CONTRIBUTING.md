@@ -71,12 +71,12 @@ refactor: Simplify logic for user authentication
 chore: Update dependencies to latest versions
 ```
 # Issues
-For issues names follow the same instructions of the [Commits](#Conventional commits) section.
+For issues names follow the same instructions of the [Commits](#Conventional-commits) section.
 
 Describing issues should follow the issue template for each repository
 
 # Pull Requests
-For PR names follow the same instructions of the [Commits](#Conventional commits) section.
+For PR names follow the same instructions of the [Commits](#Conventional-commits) section.
 
 - PR should always be created with existing Opened issues.
 - PR description should point all the changes made by the devs.

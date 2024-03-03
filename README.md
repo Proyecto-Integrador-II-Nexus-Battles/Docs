@@ -13,5 +13,5 @@ Welcome to THE NEXUS BATTLES II. Here you will find our project's documentation
 | Architecture | [ARCHITECTURE](./Assets/Architecture/) |
 | Database | [DATABASES](./Assets/Databases/) |
 
-
+# Architecture
 

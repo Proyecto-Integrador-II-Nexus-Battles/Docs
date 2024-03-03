@@ -1,7 +1,7 @@
 # Contributing
 When contributing always follow the conventional commits
 
-# Bramching
+# Branching
 
 ```mermaid
 gitGraph
@@ -49,24 +49,38 @@ Commits should only contain changes related to the prefix used, for example: Nev
 
 Download the **Conventional Commit** extension for ease of use in **Visual Studio Code.**
 
-Commit Examples:
+Commit examples:
 
-```mermaid
+```bash
 feat: Add user authentication feature
 ```
 
-```mermaid
+```bash
 fix: Fix issue with login form validationigs
 ```
 
-```mermaid
+```bash
 docs: Update installation guide
 ```
 
-```mermaid
+```bash
 refactor: Simplify logic for user authentication
 ```
 
-```mermaid
+```bash
 chore: Update dependencies to latest versions
 ```
+# Issues
+For issues names follow the same instructions of the [Commits](#Conventional commits) section.
+
+Describing issues should follow the issue template for each repository
+
+# Pull Requests
+For PR names follow the same instructions of the [Commits](#Conventional commits) section.
+
+- PR should always be created with existing Opened issues.
+- PR description should point all the changes made by the devs.
+
+PR will be always merged using `squash.`
+
+- Make sure the description of the `Merge` contains all the commits made.

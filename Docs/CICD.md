@@ -33,7 +33,7 @@ mindmap
 | Executes  | On **Pull Request** to `dev` |
 |Permissions| **Read only** repository contents|
 
-####Release
+#### Release
 | Feature   | Value             |
 | :-------- | :-----------------| 
 |Executes   | On **Pushes** to `main` |

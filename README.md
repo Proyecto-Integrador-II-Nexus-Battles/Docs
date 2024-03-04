@@ -15,3 +15,5 @@ Welcome to THE NEXUS BATTLES II. Here you will find our project's documentation
 
 # Architecture
 
+![Arquitectura](./Assets/Architecture/Diagrama_Infraestructura_PI2%20.png)
+

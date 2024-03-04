@@ -9,11 +9,14 @@ Welcome to THE NEXUS BATTLES II. Here you will find our project's documentation
 | CI/CD | [CICD](./Docs/CICD.md) |
 | Contributing  | [CONTRIBUTING](./Docs/CONTRIBUTING.md) |
 | Repositories | [REPOSITORIES](./Docs/REPOSITORIES.md) |
-| Use Case | [USECASE](./Docs/USECASE.md) |
+| Use Case | [USECASE](./Assets/UseCase/) |
 | Architecture | [ARCHITECTURE](./Assets/Architecture/) |
 | Database | [DATABASES](./Assets/Databases/) |
 
 # Architecture
 
 ![Arquitectura](./Assets/Architecture/Diagrama_Infraestructura_PI2.png)
+
+# Componentes
+![Arquitectura](./Assets/Architecture/Diagrama_componentes.drawio.png)
 
